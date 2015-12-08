@@ -2,6 +2,9 @@
 
 A Messenger implemented using ES6 and React Native, based on [FaridSafi/react-native-gifted-messenger](https://github.com/FaridSafi/react-native-gifted-messenger)
 
+![](https://raw.githubusercontent.com/sibeliusseraphini/react-native-es6-messenger/master/screenshots/messenger-1.png)
+![](https://raw.githubusercontent.com/sibeliusseraphini/react-native-es6-messenger/master/screenshots/messenger-2.png)
+
 # Messenger Component Design
 
 ```xml
@@ -40,7 +43,7 @@ But, the ideia is to provide more types of MessageParts. For instance, Gif or Lo
 
 # License
 
-MIT
+[MIT](LICENSE)
 
 # Contribution
 
